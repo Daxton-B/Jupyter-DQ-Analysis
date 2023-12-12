@@ -1,1 +1,1 @@
-
+# This repository contains exports of projects I have completed using Jupyter notebooks. This repository specifically contains the projects worked on during an online education course for Data Analysis.
